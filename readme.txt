@@ -13,3 +13,5 @@ by using this line of code: python recognize.py
 
 
 Adress of my screencast: https://www.youtube.com/watch?v=iJOXjd9QBZI
+
+GitHub link: https://github.com/aazizmegna/AI-signs-recognition
