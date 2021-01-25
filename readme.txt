@@ -12,4 +12,4 @@ After downloaded the file projectV2.zip you should unzip it in one folder, then 
 by using this line of code: python recognize.py
 
 
-Adress of my screencast:  
+Adress of my screencast: https://www.youtube.com/watch?v=iJOXjd9QBZI
