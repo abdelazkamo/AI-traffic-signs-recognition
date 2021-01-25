@@ -15,7 +15,7 @@ import pickle
 frameWidth= 640         # CAMERA RESOLUTION
 frameHeight = 480
 brightness = 180
-threshold = 0.75         # PROBABLITY THRESHOLD
+threshold = 0.90         # PROBABLITY THRESHOLD
 font = cv2.FONT_HERSHEY_SIMPLEX
 
 
