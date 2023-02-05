@@ -123,7 +123,7 @@ while True:
 
         # PREDICT IMAGE
         predictions = my_model.predict(img)
-        classIndex = my_model.predict_classes(img)
+        classIndex=np.argmax(predictions,axis=1)
         probabilityValue =np.amax(predictions)
 
         if probabilityValue > threshold:
